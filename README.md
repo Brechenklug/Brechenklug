@@ -3,6 +3,7 @@
 Computer Information Systems senior with a focus on software development and performance analysis.
 
 ## Technical Skills
+- SQL
 - Java
 - Algorithms & Data Structures
 - Operating Systems Concepts
