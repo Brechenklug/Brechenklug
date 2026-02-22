@@ -17,5 +17,5 @@ Computer Information Systems senior with a focus on software development and per
 Software engineering or data-focused internship opportunities.
 
 ## Connect With Me
-- LinkedIn: (add your link here)
-- Resume: (add link if available)
+- LinkedIn: https://www.linkedin.com/brechenklug
+- Resume: https://drive.google.com/file/d/1v9kK3VObdqrEQaDH54hq1f84sP-d_tB5/view?usp=drive_link
