@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Brooke 👋
 
-<!--
-**Brechenklug/Brechenklug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Information Systems senior with a focus on software development and performance analysis.
 
-Here are some ideas to get you started:
+## Technical Skills
+- Java
+- Algorithms & Data Structures
+- Operating Systems Concepts
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **Java Systems & Algorithms Projects**
+  - CPU Scheduling Simulator (SJF / Round Robin)
+  - Disk Scheduling Simulator (FIFO / SSTF / SCAN)
+
+## Currently Seeking
+Software engineering or data-focused internship opportunities.
+
+## Connect With Me
+- LinkedIn: (add your link here)
+- Resume: (add link if available)
